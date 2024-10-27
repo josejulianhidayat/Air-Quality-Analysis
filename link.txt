@@ -1,0 +1,7 @@
+Strimlit
+ Local URL: http://localhost:8501
+Network URL: http://172.20.10.7:8501
+Documentation
+https://colab.research.google.com/drive/1NzbOjopec09QLhCwpYBUNts73vikVArJ
+or
+https://github.com/josejulianhidayat/Air-Quality-Analysis
